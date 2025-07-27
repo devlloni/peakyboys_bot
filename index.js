@@ -19,7 +19,7 @@ const schedule = require('node-schedule');
 const fs = require('fs');
 const moment = require('moment-timezone');
 // PeakyBoys
-const TOKEN = 'MTM5OTE1MjgwNzkzNTczNzg2Ng.G3GIue.a5LHj-cFi5y-0vaIg2a4qGqH5DIErk0xv2RmTs';
+const TOKEN = 'MTM5OTE1MjgwNzkzNTczNzg2Ng.GIfrPo.cMf4whayLsApJrGlVdp1Tne0RMNFyas9JxbMZk';
 const LOG_CHANNEL_ID = '1371685796708352041';
 const INACTIVITY_CHANNEL_ID = '1371685848852074597';
 const STORAGE_FILE = 'registros.json';
