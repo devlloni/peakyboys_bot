@@ -1,0 +1,44 @@
+{
+  "registrosCount": 0,
+  "userRegistros": {},
+  "activityStats": {},
+  "activityHistory": {
+    "369544171301765121": [
+      {
+        "activity": "Graffiti - RANCHO",
+        "timestamp": 1753655719178,
+        "points": 0,
+        "imageUrl": "https://cdn.discordapp.com/attachments/1372030159896576000/1399158192088416326/Captura_de_pantalla_2025-07-27_a_las_7.35.02_p._m..png?ex=6887fb1c&is=6886a99c&hm=b1d362f79e133cdfce34c18d4f7428216cb728aadc6e8a30ad6f576798e70075&"
+      }
+    ],
+    "1258444103671353497": [
+      {
+        "activity": "Graffiti - Mesa",
+        "timestamp": 1753656032909,
+        "points": 0,
+        "imageUrl": "https://cdn.discordapp.com/attachments/1375316977480106135/1399159552045350983/2082F61.JPG?ex=6887fc60&is=6886aae0&hm=44053221699d5635941a4797cc3a5c0d4dd6d577b5535eec1d4855f07c56a918&"
+      }
+    ]
+  },
+  "activityMessageStore": {
+    "recruitment_message": {
+      "messageId": "1399157168027996291",
+      "channelId": "1374462025442525274"
+    },
+    "graffiti_message": {
+      "messageId": "1399157170305765457",
+      "channelId": "1374226489075306497"
+    },
+    "dealer_message": {
+      "messageId": "1399157171437961226",
+      "channelId": "1374226501557293077"
+    },
+    "graffiti_step_message": {
+      "messageId": "1399159567509622834",
+      "channelId": "1375316977480106135"
+    }
+  },
+  "absenceTimeoutsData": {},
+  "inactivityPending": {},
+  "recruitmentData": {}
+}
